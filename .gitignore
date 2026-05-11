@@ -7,6 +7,9 @@ archive/
 # Extracted features
 extracted_features/
 
+# Prepared dataset from extraction
+prepared_data.npz
+
 # MediaPipe model file
 *.task
 
