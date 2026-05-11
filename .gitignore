@@ -1,2 +1,23 @@
-archive/
+# Dataset zip file
 archive.zip
+
+# Dataset
+archive/
+
+# Extracted features
+extracted_features/
+
+# MediaPipe model file
+*.task
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
